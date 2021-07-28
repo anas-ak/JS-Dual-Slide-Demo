@@ -26,10 +26,10 @@ angular.module('app', ['cfp.hotkeys', 'ngAnimate'])
         	},
             {
                 'rank' : 2,
-            	'name' : 'Giant Sequoia National Monument',
-                'desc' : 'Located in the southern Sierra Nevada mountains of California. The forest is named for the majestic Giant Sequoia  trees which populate 38 distinct groves within the boundaries of the forest. The Sequoia National Forest covers 4,829 sq km (1,865 sq mi).',
-                'location' : 'California, United States',
-                'img' : 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/130891/sequoia.jpg'
+            	'name' : 'Jinnah Mausoleum',
+                'desc' : 'Located in the coastal city of Karachi. The tomb is named after the father of the nation of Pakistan, M. Jinnah. The tomb covers 1,829 sq km (865 sq mi). [citation needed]',
+                'location' : 'Karachi, Pakistan',
+                'img' : 'tomb.jpg'
         	},
             {
                 'rank' : 3,
